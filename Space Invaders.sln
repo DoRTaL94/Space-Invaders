@@ -5,6 +5,14 @@ VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Invaders", "Space Invaders\Space Invaders.csproj", "{34373531-C0AF-4B6F-B5D8-19A86DBF00C8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{70DEED80-8485-4B80-8E6C-9E7B1AA88FC5}"
+	ProjectSection(SolutionItems) = preProject
+		GameOverScreen.PNG = GameOverScreen.PNG
+		MainMenuScreen.PNG = MainMenuScreen.PNG
+		PlayScreen.PNG = PlayScreen.PNG
+		WelcomeScreen.PNG = WelcomeScreen.PNG
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
